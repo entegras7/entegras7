@@ -11,7 +11,7 @@
 
 I'm a full-stack web developer specializing in React. I love creating dynamic, user-friendly web applications that bridge design and functionality. With experience in both front-end and back-end technologies, I thrive on problem-solving and continuous learning to deliver high-quality code and exceptional user experiences
 
-## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
+## <img align="center" src="https://xneelo.co.za/help-centre/wp-content/uploads/2016/12/gmail-logo-1.png"  width="37"/> Contact Me
 
 <p> 
  <i>You can reach out to me via mail at<strong> entegras7@gmail.com </strong></i> 
